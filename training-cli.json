@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ondrejsika/training-cli/releases/download/v0.4.0/training-cli_v0.4.0_windows_386.tar.gz",
+            "url": "https://github.com/ondrejsika/training-cli/releases/download/v0.4.1/training-cli_v0.4.1_windows_386.tar.gz",
             "bin": [
                 "training-cli.exe"
             ],
-            "hash": "9d89e933c073eecdb1b65b56f89c6069b2f2f2b7bbbc5da263b536379cb19716"
+            "hash": "d2df6acb083e363c98d18cbb35a5068984b5f96a93f82b04d3b1fc4528a0145c"
         },
         "64bit": {
-            "url": "https://github.com/ondrejsika/training-cli/releases/download/v0.4.0/training-cli_v0.4.0_windows_amd64.tar.gz",
+            "url": "https://github.com/ondrejsika/training-cli/releases/download/v0.4.1/training-cli_v0.4.1_windows_amd64.tar.gz",
             "bin": [
                 "training-cli.exe"
             ],
-            "hash": "e6b898477ca7d7eda18ad1b2d73c119a59278247260abd72b31c3bd71f7c9bd1"
+            "hash": "dec9173b2f33b75e4873b3a2eb6445c771f7a79b1cbd1fd23fad0d6879f2bae7"
         }
     },
     "homepage": "https://github.com/ondrejsika/training-cli",
